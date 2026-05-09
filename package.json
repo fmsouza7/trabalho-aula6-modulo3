@@ -1,0 +1,27 @@
+{
+  "name": "trabalho-aula6-modulo3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmsouza7/trabalho-aula6-modulo3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/fmsouza7/trabalho-aula6-modulo3/issues"
+  },
+  "homepage": "https://github.com/fmsouza7/trabalho-aula6-modulo3#readme",
+  "dependencies": {
+    "mocha": "^11.7.5"
+  }
+}
